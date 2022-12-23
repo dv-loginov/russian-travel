@@ -1,13 +1,6 @@
 .logo__img {
     max-width: 176px;
     max-height: 52px;
-    width: 100%;
-    fill:white;
-    transition: all .5s ease-out;
-}
-
-.logo__img:hover {
-    fill: rgb(0, 119, 255);
 }
 
 @media screen and (max-width: 320px) {
