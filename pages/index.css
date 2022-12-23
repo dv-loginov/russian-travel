@@ -1,5 +1,4 @@
 @import url(../vendor/normalize.css);
-@import url(../vendor/fonts/fonts.css);
 
 @import url(../block/page/page.css);
 
@@ -53,3 +52,5 @@
 @import url(../block/footer/__links/footer__links.css);
 @import url(../block/footer/__link/footer__link.css);
 @import url(../block/footer/__author/footer__author.css);
+
+@import url(../vendor/fonts/fonts.css);
