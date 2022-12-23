@@ -3,7 +3,12 @@
     font-size: 18px;
     line-height: 22px;
     color: #FFFFFF;
+    transition: all .25s;
 }
+
+.place__link:hover {
+    opacity: 0.8;
+} 
 
 @media screen and (max-width: 360px) {
     .place__link {
