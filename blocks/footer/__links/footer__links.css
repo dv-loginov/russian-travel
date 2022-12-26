@@ -1,0 +1,16 @@
+.footer__links {
+    margin-right: 18px;
+}
+
+
+@media screen and (max-width: 710px) {
+    .footer__links:not(:last-child) {
+        margin-bottom: 18px;
+    } 
+}
+
+@media screen and (max-width: 320px) {
+    .footer__links:not(:last-child) {
+        margin-bottom: 30px;
+    } 
+}

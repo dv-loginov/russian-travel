@@ -1,0 +1,20 @@
+.lang__link {
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    color: #FFFFFF;
+    transition: all 300ms linear;
+}
+
+.lang__link:hover {
+    text-decoration: underline;
+    opacity: .7;
+    cursor: pointer;
+}
+
+@media screen and (max-width: 320px) {
+    .lang__link {
+        font-size: 18px;
+    }
+}
